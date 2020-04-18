@@ -3,11 +3,11 @@ Jawab
 # Uji independensi
 1. Seorang dosen ingin mengetahui apakah ada hubungan antara IP mhs dengan mutu makanan mereka. Dari sampel 200 mhs diperoleh hasil sbb:
  
- ![](1.png)
- ![](2.png)
-  ![](2.png)
-( E-O )2 /E
-  ![](4.png)
+ ![](1.png)<br>
+ ![](2.png)<br>
+ 
+( E-O )2 /E<br>
+  ![](4.png)<br>
 H0: Kedua variabel independen<br>
 H1: Kedua variabel tersebut tergantung<br>
 
@@ -15,12 +15,12 @@ Untuk a=0 .05 ,maka
 P=1- a = 1-0.05=0.95	dk=( 3)-1 )×( 3)-1 )=4, 
 maka daerah penolakan untuk tes ini adalah R={ χ2:x2>9.49 }.
  
-  ![](6.png)
+  ![](6.png)<br>
    ![](7.png)
-=9.724+0.016+8.805+3.022+2.31+0.002+0.944+2.325+5.908
-=33.055 Karena x2=33.055 > xc2=9.488 maka H0 ditolak.
+=9.724+0.016+8.805+3.022+2.31+0.002+0.944+2.325+5.908<br>
+=33.055 Karena x2=33.055 > xc2=9.488 maka H0 ditolak.<br>
 
-Kesimpulan 
+Kesimpulan <br>
 Dapat disimpulkan bahwa Ho ditolak. Oleh karena itu, ada cukup bukti untuk mengklaim bahwa kedua variabel itu tergantung, pada tingkat signifikansi 0,05.
 Nilai p yang sesuai untuk pengujian 
  ![](8.png)<br>
