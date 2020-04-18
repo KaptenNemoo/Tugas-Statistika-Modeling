@@ -8,8 +8,8 @@ Jawab
   ![](2.png)
 ( E-O )2 /E
   ![](4.png)
-H0: Kedua variabel independen
-H1: Kedua variabel tersebut tergantung
+H0: Kedua variabel independen<br>
+H1: Kedua variabel tersebut tergantung<br>
 
 Untuk a=0 .05 ,maka
 P=1- a = 1-0.05=0.95	dk=( 3)-1 )×( 3)-1 )=4, 
@@ -24,7 +24,7 @@ Kesimpulan
 Dapat disimpulkan bahwa Ho ditolak. Oleh karena itu, ada cukup bukti untuk mengklaim bahwa kedua variabel itu tergantung, pada tingkat signifikansi 0,05.
 Nilai p yang sesuai untuk pengujian 
  ![](8.png)<br>
-2. Dengan melakukan survey terhadap 500 mhs, media masa kampus memperoleh tabel kontingensi tentang sikap mhs terhadap peraturan baru mengenai penggunaan gelanggang mhs:
+2. Dengan melakukan survey terhadap 500 mhs, media masa kampus memperoleh tabel kontingensi tentang sikap mhs terhadap peraturan baru mengenai penggunaan gelanggang mhs:<br>
  
   ![](9.png)
    ![](2.png)
@@ -32,12 +32,12 @@ Nilai p yang sesuai untuk pengujian
  
 ( E-O )2 /E
   ![](11.png)
-Hipotesis 
-H0: Kedua variabel independen
-H1: Kedua variabel tersebut tergantung
+Hipotesis <br>
+H0: Kedua variabel independen<br>
+H1: Kedua variabel tersebut tergantung<br>
 P=1- a = 1-0.1= 0.9 	dk =( 2-1 )×( 3)-1 )=2
 maka daerah penolakan untuk tes ini adalah R={ χ2:χ2 >4.605 }
- ![](12.png)
+ ![](11.png)
   .
  
   
