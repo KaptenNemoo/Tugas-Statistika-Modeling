@@ -35,6 +35,13 @@ H0: Kedua variabel independen<br>
 H1: Kedua variabel tersebut tergantung<br>
 P=1- a = 1-0.1= 0.9 	dk =( 2-1 )×( 3)-1 )=2<br>
 maka daerah penolakan untuk tes ini adalah R={ χ2:χ2 >4.605 }<br>
+ ![](11.png)<br>
+  ![](12.png)<br>
+   ![](17.png)<br>
+   Kesimpulan<br>
+Dapat disimpulkan bahwa hipotesis nol Ho ditolak. Oleh karena itu, ada cukup bukti untuk mengklaim bahwa kedua variabel itu tergantung, pada tingkat signifikansi 0,1.
+Nilai p yang sesuai untuk pengujian<br> 
+  ![](13.png)<br>
 
  # analisis regresi linear
  ![](14.png)
