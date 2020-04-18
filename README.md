@@ -37,7 +37,7 @@ H0: Kedua variabel independen
 H1: Kedua variabel tersebut tergantung
 P=1- a = 1-0.1= 0.9 	dk =( 2-1 )×( 3)-1 )=2
 maka daerah penolakan untuk tes ini adalah R={ χ2:χ2 >4.605 }
- ![](11.png) ![](12.png)
+ ![](12.png)
   .
  
   
