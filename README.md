@@ -29,7 +29,12 @@ Nilai p yang sesuai untuk pengujian <br>
    ![](2.png)<br>
    ![](9.png)<br>
   ( E-O )2 /E<br>
- 
+  ![](10.png)<br>
+Hipotesis<br> 
+H0: Kedua variabel independen<br>
+H1: Kedua variabel tersebut tergantung<br>
+P=1- a = 1-0.1= 0.9 	dk =( 2-1 )×( 3)-1 )=2<br>
+maka daerah penolakan untuk tes ini adalah R={ χ2:χ2 >4.605 }<br>
 
  # analisis regresi linear
  ![](14.png)
