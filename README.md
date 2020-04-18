@@ -26,8 +26,8 @@ Nilai p yang sesuai untuk pengujian <br>
  ![](8.png)<br>
 2. Dengan melakukan survey terhadap 500 mhs, media masa kampus memperoleh tabel kontingensi tentang sikap mhs terhadap peraturan baru mengenai penggunaan gelanggang mhs:<br>
  ![](18.png)<br>
-  ![](9.png)<br>
-   ![](2.png)<br>
+   ![](2.png)<br>![](9.png)<br>
+  
     ![](10.png)<br>
  
 
