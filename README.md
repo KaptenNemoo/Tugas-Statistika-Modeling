@@ -25,8 +25,8 @@ Dapat disimpulkan bahwa Ho ditolak. Oleh karena itu, ada cukup bukti untuk mengk
 Nilai p yang sesuai untuk pengujian <br>
  ![](8.png)<br>
 2. Dengan melakukan survey terhadap 500 mhs, media masa kampus memperoleh tabel kontingensi tentang sikap mhs terhadap peraturan baru mengenai penggunaan gelanggang mhs:<br>
- 
-  ![](9.png)
+ ![](18.png)<br>
+  ![](9.png)<br>
    ![](2.png)<br>
     ![](10.png)<br>
  
