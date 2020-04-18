@@ -23,7 +23,7 @@ maka daerah penolakan untuk tes ini adalah R={ χ2:x2>9.49 }.
 Kesimpulan 
 Dapat disimpulkan bahwa Ho ditolak. Oleh karena itu, ada cukup bukti untuk mengklaim bahwa kedua variabel itu tergantung, pada tingkat signifikansi 0,05.
 Nilai p yang sesuai untuk pengujian 
- ![](8.png)
+ ![](8.png)<br>
 2. Dengan melakukan survey terhadap 500 mhs, media masa kampus memperoleh tabel kontingensi tentang sikap mhs terhadap peraturan baru mengenai penggunaan gelanggang mhs:
  
   ![](9.png)
@@ -31,7 +31,7 @@ Nilai p yang sesuai untuk pengujian
     ![](10.png)
  
 ( E-O )2 /E
-  ![](10.png)
+  ![](11.png)
 Hipotesis 
 H0: Kedua variabel independen
 H1: Kedua variabel tersebut tergantung
